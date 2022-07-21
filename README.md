@@ -1,2 +1,5 @@
 # confirm-prompt-alert
- Based on a practice task from learn.javascript.ru
+ 
+Link: https://extraordinary-medovik-8cb1a3.netlify.app/
+ 
+Based on a practice task from learn.javascript.ru
